@@ -1,0 +1,5 @@
+package api.get;
+
+public class UserUpdate {
+
+}

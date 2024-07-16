@@ -1,0 +1,5 @@
+base_URL = "https://reqres.in/";
+	post_URL = base_URL+"/user";
+	update_URL =  base_URL+"/user/{username}";
+	get_URL = base_URL+"/user/{username}";
+	delete_URL = base_URL+"/user/{username}";

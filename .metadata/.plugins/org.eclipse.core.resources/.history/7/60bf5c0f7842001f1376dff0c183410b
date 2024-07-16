@@ -1,0 +1,19 @@
+package api.get;
+
+import org.testng.annotations.Test;
+import io.restassured.RestAssured.*;
+import io.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+
+public class UserGet {
+	
+	@Test
+	
+	void getUser() 
+	{
+		given()
+		.when()
+		.then();
+	}
+
+}
